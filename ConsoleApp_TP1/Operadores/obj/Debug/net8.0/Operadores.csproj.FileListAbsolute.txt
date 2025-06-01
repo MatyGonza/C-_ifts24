@@ -1,0 +1,15 @@
+C:\Users\home\Documents\ifts 24\Tecnicas de programacion\tp 1\github\C-_ifts24\ConsoleApp_TP1\Operadores\bin\Debug\net8.0\Operadores.exe
+C:\Users\home\Documents\ifts 24\Tecnicas de programacion\tp 1\github\C-_ifts24\ConsoleApp_TP1\Operadores\bin\Debug\net8.0\Operadores.deps.json
+C:\Users\home\Documents\ifts 24\Tecnicas de programacion\tp 1\github\C-_ifts24\ConsoleApp_TP1\Operadores\bin\Debug\net8.0\Operadores.runtimeconfig.json
+C:\Users\home\Documents\ifts 24\Tecnicas de programacion\tp 1\github\C-_ifts24\ConsoleApp_TP1\Operadores\bin\Debug\net8.0\Operadores.dll
+C:\Users\home\Documents\ifts 24\Tecnicas de programacion\tp 1\github\C-_ifts24\ConsoleApp_TP1\Operadores\bin\Debug\net8.0\Operadores.pdb
+C:\Users\home\Documents\ifts 24\Tecnicas de programacion\tp 1\github\C-_ifts24\ConsoleApp_TP1\Operadores\obj\Debug\net8.0\Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Documents\ifts 24\Tecnicas de programacion\tp 1\github\C-_ifts24\ConsoleApp_TP1\Operadores\obj\Debug\net8.0\Operadores.AssemblyInfoInputs.cache
+C:\Users\home\Documents\ifts 24\Tecnicas de programacion\tp 1\github\C-_ifts24\ConsoleApp_TP1\Operadores\obj\Debug\net8.0\Operadores.AssemblyInfo.cs
+C:\Users\home\Documents\ifts 24\Tecnicas de programacion\tp 1\github\C-_ifts24\ConsoleApp_TP1\Operadores\obj\Debug\net8.0\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\ifts 24\Tecnicas de programacion\tp 1\github\C-_ifts24\ConsoleApp_TP1\Operadores\obj\Debug\net8.0\Operadores.sourcelink.json
+C:\Users\home\Documents\ifts 24\Tecnicas de programacion\tp 1\github\C-_ifts24\ConsoleApp_TP1\Operadores\obj\Debug\net8.0\Operadores.dll
+C:\Users\home\Documents\ifts 24\Tecnicas de programacion\tp 1\github\C-_ifts24\ConsoleApp_TP1\Operadores\obj\Debug\net8.0\refint\Operadores.dll
+C:\Users\home\Documents\ifts 24\Tecnicas de programacion\tp 1\github\C-_ifts24\ConsoleApp_TP1\Operadores\obj\Debug\net8.0\Operadores.pdb
+C:\Users\home\Documents\ifts 24\Tecnicas de programacion\tp 1\github\C-_ifts24\ConsoleApp_TP1\Operadores\obj\Debug\net8.0\Operadores.genruntimeconfig.cache
+C:\Users\home\Documents\ifts 24\Tecnicas de programacion\tp 1\github\C-_ifts24\ConsoleApp_TP1\Operadores\obj\Debug\net8.0\ref\Operadores.dll

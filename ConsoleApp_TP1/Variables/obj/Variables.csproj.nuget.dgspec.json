@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\home\\Documents\\ifts 24\\Tecnicas de programacion\\tp 1\\ConsoleApp_TP1\\Variables\\Variables.csproj": {}
+    "C:\\Users\\home\\Documents\\ifts 24\\Tecnicas de programacion\\tp 1\\github\\C-_ifts24\\ConsoleApp_TP1\\Variables\\Variables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\home\\Documents\\ifts 24\\Tecnicas de programacion\\tp 1\\ConsoleApp_TP1\\Variables\\Variables.csproj": {
+    "C:\\Users\\home\\Documents\\ifts 24\\Tecnicas de programacion\\tp 1\\github\\C-_ifts24\\ConsoleApp_TP1\\Variables\\Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\home\\Documents\\ifts 24\\Tecnicas de programacion\\tp 1\\ConsoleApp_TP1\\Variables\\Variables.csproj",
+        "projectUniqueName": "C:\\Users\\home\\Documents\\ifts 24\\Tecnicas de programacion\\tp 1\\github\\C-_ifts24\\ConsoleApp_TP1\\Variables\\Variables.csproj",
         "projectName": "Variables",
-        "projectPath": "C:\\Users\\home\\Documents\\ifts 24\\Tecnicas de programacion\\tp 1\\ConsoleApp_TP1\\Variables\\Variables.csproj",
+        "projectPath": "C:\\Users\\home\\Documents\\ifts 24\\Tecnicas de programacion\\tp 1\\github\\C-_ifts24\\ConsoleApp_TP1\\Variables\\Variables.csproj",
         "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\home\\Documents\\ifts 24\\Tecnicas de programacion\\tp 1\\ConsoleApp_TP1\\Variables\\obj\\",
+        "outputPath": "C:\\Users\\home\\Documents\\ifts 24\\Tecnicas de programacion\\tp 1\\github\\C-_ifts24\\ConsoleApp_TP1\\Variables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\home\\AppData\\Roaming\\NuGet\\NuGet.Config"
