@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes", "Constantes\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores", "Operadores\Operadores.csproj", "{3B733394-BF8E-49BD-A22A-E59BEB82F0CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicionales", "Condicionales\Condicionales.csproj", "{EA699CB7-B76C-47F5-9DB9-CEDA60D6D10E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bucles", "Bucles\Bucles.csproj", "{F4740888-9CFC-47EC-A9AC-905B729EABE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{3B733394-BF8E-49BD-A22A-E59BEB82F0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B733394-BF8E-49BD-A22A-E59BEB82F0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B733394-BF8E-49BD-A22A-E59BEB82F0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA699CB7-B76C-47F5-9DB9-CEDA60D6D10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA699CB7-B76C-47F5-9DB9-CEDA60D6D10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA699CB7-B76C-47F5-9DB9-CEDA60D6D10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA699CB7-B76C-47F5-9DB9-CEDA60D6D10E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4740888-9CFC-47EC-A9AC-905B729EABE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4740888-9CFC-47EC-A9AC-905B729EABE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4740888-9CFC-47EC-A9AC-905B729EABE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4740888-9CFC-47EC-A9AC-905B729EABE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
